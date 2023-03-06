@@ -47,7 +47,7 @@ body {
   font-style: normal;
 }
 
-.header-address {
+.header-list {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -55,15 +55,77 @@ body {
   color: #434455;
 }
 
-.header-address:hover,
-.header-address:focus {
-  color: #404bbf;
+.header-list {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color:#434455 ;
+
 }
 
-.header-address {
+.link {
+text-decoration: none;
+
+}
+
+.address {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+
+
 }
+
+.address:hover {
+color: #404bbf;
+
+}
+
+.address:focus {
+color: #404bbf;
+
+}
+
+.header-sec {
+  background: #2e2f42;
+
+}
+
+.header-titel {
+font-weight: 700;
+font-size: 56px;
+line: height 1.7em;;
+}
+
+
+
+
+
+
+
+
+.card-titel {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
+
+}
+
+.card-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+
+}
+
+.footer-color {
+  background-color: #2E2F42;
+}
+
