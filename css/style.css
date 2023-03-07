@@ -60,13 +60,11 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color:#434455 ;
-
+  color: #434455;
 }
 
 .link {
-text-decoration: none;
-
+  text-decoration: none;
 }
 
 .address {
@@ -75,41 +73,36 @@ text-decoration: none;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-
-
 }
 
 .address:hover {
-color: #404bbf;
-
+  color: #404bbf;
 }
 
 .address:focus {
-color: #404bbf;
-
+  color: #404bbf;
 }
 
+.main {
+  background-color: #2e2f42;
+}
 
 .main-titel {
-font-weight: 700;
-font-size: 56px;
-line-height: 1.7em;;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
-
-
-
-
-
-
-
 
 .card-titel {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2E2F42;
-
+  color: #2e2f42;
 }
 
 .card-text {
@@ -118,10 +111,8 @@ line-height: 1.7em;;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-
 }
 
 .footer-color {
-  background-color: #2E2F42;
+  background-color: #2e2f42;
 }
-
