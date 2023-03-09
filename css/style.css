@@ -202,6 +202,13 @@ body {
 
 /* Portfolio . html */
 
+/* BUTTONS */
+.filter-btn:hover,
+.filter-btn:focus {
+  color: #ffffff;
+  background: #404bbf;
+}
+
 /* OUR PROJECTS */
 
 .card-titel {
