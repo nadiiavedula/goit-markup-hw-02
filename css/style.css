@@ -205,18 +205,18 @@ body {
 /* BUTTONS */
 .filter-btn:hover,
 .filter-btn:focus {
-  color: #ffffff;
+  color: #4d5ae5;
   background: #404bbf;
 }
 .filter-btn {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-display: flex;
-letter-spacing: 0.04em;
-color: #4D5AE5;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
 }
 .list {
   list-style: none;
