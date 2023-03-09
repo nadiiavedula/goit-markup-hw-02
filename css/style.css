@@ -97,6 +97,17 @@ body {
   color: #ffffff;
 }
 
+.modal-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: calc(24 / 16);
+  align-items: center;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  border: none;
+}
+
 /* team list */
 .team-list .titel {
   margin-top: 32px;
