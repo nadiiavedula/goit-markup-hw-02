@@ -170,6 +170,15 @@ body {
   letter-spacing: 0.02em;
   color: #e7e9fc;
 }
+.header-studio-item {
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+color: #F4F4FD
+}
 
 /* Portfolio . html */
 
