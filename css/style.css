@@ -11,6 +11,29 @@ body {
 .link {
   text-decoration: none;
 }
+h1,
+h2,
+h3,
+h4,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+img {
+  display: block;
+}
+.conteiner {
+  width: 1125px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .header-logo {
   font-family: "Raleway", sans-serif;
@@ -137,29 +160,25 @@ body {
 
 /* OUR TEAM*/
 
-.team-container {
+.team-list .title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.team-list .text {
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+.team-list {
   display: flex;
-  flex-wrap: wrap;
-  width: 1440px;
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: teal;
 }
 
-.team-titel {
-  text-align: center;
+.team-list .item {
+  margin-left: 24px;
 }
-
-.team-title-list {
-  display: flex;
-  margin-top: 72px;
-}
-
-.team-text {
-  line-height: 1.5;
-  text-align: center;
-}
-
 /* FOOTER */
 
 .footer-color {
