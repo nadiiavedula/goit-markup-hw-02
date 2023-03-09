@@ -212,8 +212,8 @@ body {
   list-style: none;
 }
 
-.section-ul {
-  list-style: none;
+.section-ul-item {
+  list-style-type: none;
 }
 
 /* OUR PROJECTS */
