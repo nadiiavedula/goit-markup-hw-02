@@ -37,6 +37,7 @@ body {
 }
 
 .header-item {
+  list-style-type: none;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -137,6 +138,10 @@ body {
 
 /* WHAT ARE WE DOING*/
 
+.projects {
+  list-style-type: none;
+}
+
 /* OUR TEAM*/
 
 .team-list .title {
@@ -157,6 +162,10 @@ body {
 
 .team-list .item {
   margin-left: 24px;
+}
+
+.item {
+  list-style-type: none;
 }
 /* FOOTER */
 
