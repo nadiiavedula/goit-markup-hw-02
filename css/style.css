@@ -155,6 +155,26 @@ body {
 }
 
 /**** OUR TEAM***********************************************************************/
+.team-list .titel {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.team-list .text {
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+.team-list {
+  display: flex;
+}
+.team-list .item {
+  margin-left: 24px;
+  list-style-type: none;
+}
 
 /* Footer*******************************************/
 .footer-color {
