@@ -97,6 +97,31 @@ body {
   color: #ffffff;
 }
 
+/* team list */
+.team-list .titel {
+  margin-top: 32px;
+  margin-bottom: 0;
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.team-list .text {
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+.team-list {
+  display: flex;
+}
+.team-list .item + .item {
+  margin-left: 24px;
+}
+
+/* portfolio html */
+
 .card-titel {
   font-weight: 500;
   font-size: 20px;
