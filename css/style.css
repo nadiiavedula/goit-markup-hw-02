@@ -37,12 +37,14 @@ body {
 }
 
 .header-item {
-  list-style-type: none;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.header-item link {
+  list-style-type: none;
 }
 
 /* ADDRESS */
@@ -137,7 +139,6 @@ body {
 }
 
 /* WHAT ARE WE DOING*/
-
 .projects {
   list-style-type: none;
 }
@@ -162,11 +163,9 @@ body {
 
 .team-list .item {
   margin-left: 24px;
-}
-
-.item {
   list-style-type: none;
 }
+
 /* FOOTER */
 
 .footer-color {
