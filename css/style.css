@@ -226,6 +226,9 @@ body {
   list-style-type: none;
 }
 
+.img-link {
+  background: #ffffff;
+}
 /* OUR PROJECTS */
 
 .card-titel {
