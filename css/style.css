@@ -51,6 +51,15 @@ body {
   border: 1px solid red;
   margin-right: 156px;
 }
+.header-item :hover {
+  color: #2e2f42;
+}
+.header-item :active {
+  color: #2e2f42;
+}
+.header-item :focus {
+  color: #2e2f42;
+}
 
 /*** ADDRESS ****************************************************************/
 
