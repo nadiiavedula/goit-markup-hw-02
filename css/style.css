@@ -43,7 +43,6 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
   list-style-type: none;
-  text-decoration: none;
 }
 .header-ul {
   display: flex;
