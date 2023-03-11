@@ -218,10 +218,7 @@ body {
   letter-spacing: 0.04em;
   color: #4d5ae5;
 }
-.list {
-  list-style: none;
-}
-.button-item {
+.filter-btn {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -230,6 +227,9 @@ body {
   color: #4d5ae5;
   background: #f4f4fd;
   padding: 12px 24px;
+}
+.list {
+  list-style: none;
 }
 
 .section-ul-item {
