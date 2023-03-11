@@ -218,6 +218,16 @@ body {
   letter-spacing: 0.04em;
   color: #4d5ae5;
 }
+.filter-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: transparent;
+  text-transform: none;
+  color: #4d5ae5;
+  background: #f4f4fd;
+  padding: 12px 24px;
+}
 
 .list {
   list-style: none;
