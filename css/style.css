@@ -44,11 +44,19 @@ body {
   color: #2e2f42;
   list-style-type: none;
 }
+.header-ul {
+  display: flex;
+  gap: 40px;
+  margin: 24px 156px 24px;
+  border: 1px solid red;
+  margin-right: 156px;
+}
 
 /*** ADDRESS ****************************************************************/
 
 .header-address {
   font-style: normal;
+  margin-right: auto;
 }
 
 .header-list {
@@ -217,16 +225,6 @@ body {
   display: flex;
   letter-spacing: 0.04em;
   color: #4d5ae5;
-}
-.filter-btn {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  border: transparent;
-  text-transform: none;
-  color: #4d5ae5;
-  background: #f4f4fd;
-  padding: 12px 24px;
 }
 
 .list {
