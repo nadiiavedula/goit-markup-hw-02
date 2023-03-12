@@ -86,6 +86,15 @@ body {
   letter-spacing: 0.02em;
   color: var(--grey-color);
 }
+.header-item-section :hover {
+  color: var(--grey-color);
+}
+.header-item-section :active {
+  color: var(--grey-color);
+}
+.header-item-section :focus {
+  color: var(--grey-color);
+}
 
 .header-link {
   text-decoration: none;
