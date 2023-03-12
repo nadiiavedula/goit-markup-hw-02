@@ -130,6 +130,7 @@
   cursor: pointer;
   border: none;
   color: #ffffff;
+  background: #4d5ae5;
 }
 .subtitel-item {
   list-style-type: none;
@@ -231,6 +232,7 @@
   display: flex;
   letter-spacing: 0.04em;
   color: #4d5ae5;
+  border: none;
 }
 
 .list {
