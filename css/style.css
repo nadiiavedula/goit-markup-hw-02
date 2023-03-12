@@ -164,7 +164,9 @@
 .projects-list {
   list-style: none;
   display: flex;
-  margin-left: 12px;
+}
+.projects {
+  margin-left: 24px;
 }
 
 /**** OUR TEAM***********************************************************************/
