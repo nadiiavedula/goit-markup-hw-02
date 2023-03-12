@@ -87,13 +87,6 @@ body {
   color: var(--grey-color);
 }
 
-.header-list {
-  display: flex;
-  margin: 24px 156px 24px;
-  border-bottom: 1px solid var(--almost-white-color);
-  margin-right: 156px;
-}
-
 .header-link {
   text-decoration: none;
   font-size: 16px;
