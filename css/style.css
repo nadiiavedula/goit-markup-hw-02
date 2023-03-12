@@ -248,6 +248,7 @@ body {
   letter-spacing: 0.04em;
   color: var(--ocean-color);
   border: none;
+  cursor: pointer;
 }
 
 .list {
