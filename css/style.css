@@ -161,11 +161,10 @@
   color: #2e2f42;
 }
 
-.projects-list {
+
+.projects-list .projects {
   list-style: none;
-  display: flex;
-}
-.projects {
+  display: flex; 
   margin-left: 24px;
 }
 
